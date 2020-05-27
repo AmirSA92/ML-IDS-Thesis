@@ -1,4 +1,4 @@
-# IKT590 - A machine learning approach for intrusion detection
+# IKT590 - A Machine Learning Approach for Intrusion Detection
 
 Master Thesis project at University of Agder, Spring 2020. 
 In this thesis, we have examined the detection efficiency of machine learning algorithms such as Neural Network, Convolutional Neural Network, Random Forest and Long Short-Term Memory.
